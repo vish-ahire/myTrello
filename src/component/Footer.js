@@ -7,12 +7,12 @@ const Footer = () => {
         © {new Date().getFullYear()} My Trello. All rights reserved.
       </div>
       <div className="flex space-x-4">
-        <a href="#" className="hover:text-white" target="_blank" rel="noopener noreferrer"
+        <a href="https://opensource.org/license/mit" className="hover:text-white" target="_blank" rel="noopener noreferrer"
         >
           Privacy Policy
         </a>
         <a
-          href="#"
+          href="https://opensource.org/license/mit"
           className="hover:text-white"
           target="_blank"
           rel="noopener noreferrer"
