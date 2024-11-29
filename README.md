@@ -23,13 +23,13 @@ Drag and Drop Support: Rearrange tasks easily (planned feature).
 
 ## Demo
 
-A live version of the app can be found [here](https:// "My Trello").
+A live version of the app can be found [here](https://neurotask.netlify.app/ "My Trello").
 
 ## Installation
 1.Clone the repository:
 
 ```
-git clone https://github.com/your-username/trello-clone.git
+git clone https://github.com/vish-ahire/myTrello
 cd trello-clone
 
 ```
